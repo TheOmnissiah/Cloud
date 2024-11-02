@@ -1,0 +1,20 @@
+Thest (Diplomacy):
+-Greater humanoids
+-Insects & greater insects
+-Greater silicon
+-Greater slime
+-Phantoms
+-7 Unknown
+(3'rd row 4,5 and 7, last row 3, 4, 5)
+{Special or elite crew}
+
+Corby (Tech):
+-Drones
+{Upgrade to max}
+
+Wakeson (Warfare):
+-Kernels
+-Tasks
+-4 Unknown 
+(3'rd row last 2, last how first and last)
+{Have item n ship}
