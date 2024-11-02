@@ -1,5 +1,4 @@
 Thest (Diplomacy):
--Greater humanoids
 -Insects & greater insects
 -Greater silicon
 -Greater slime
