@@ -7,10 +7,6 @@ Thest (Diplomacy):
 (3'rd row 4,5 and 7, last row 3, 4, 5)
 {Special or elite crew}
 
-Corby (Tech):
--Drones
-{Upgrade to max}
-
 Wakeson (Warfare):
 -Kernels
 -Tasks
