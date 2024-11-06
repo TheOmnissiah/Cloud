@@ -9,7 +9,6 @@ Thest (Diplomacy):
 
 Wakeson (Warfare):
 -Kernels
--Tasks
 -4 Unknown 
 (3'rd row last 2, last how first and last)
 {Have item n ship}
